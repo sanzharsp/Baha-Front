@@ -1,7 +1,7 @@
 
 
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Box, Heading, Switch, Text, Center,Button, Stack, NativeBaseProvider } from "native-base";
+import { Box, Heading, Switch,Button, Stack, NativeBaseProvider } from "native-base";
 import { ScrollView } from "react-native";
 import Counter from './components/MOBX/ProfileRender/ProfileMobxRener' 
 const AdminScreenBase = () => {
